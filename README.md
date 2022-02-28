@@ -3,4 +3,4 @@
 - Vagrant
 - VirtualBox
 
-  I installed git on my virtual machine (VM) running **Ubuntu/focal/64**
+ I installed git on my virtual machine (VM) running **Ubuntu/focal/64**
